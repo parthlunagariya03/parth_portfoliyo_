@@ -42,9 +42,13 @@ Welcome to my personal portfolio repository! This website is a testament to my j
 ---
 
 📜 Sections Overview
+
   Home: A welcoming introduction with smooth scrolling and visually engaging elements.
+  
   About Me: Highlights my background, expertise, and technical skills.
+  
   Projects: A showcase of my work, including project descriptions and live links.
+  
   Contact: A fully functional contact form with direct links to connect with me.
   
 ---
