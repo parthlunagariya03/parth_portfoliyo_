@@ -52,9 +52,9 @@ Welcome to my personal portfolio repository! This website is a testament to my j
   🤝 Connect with Me
 Feel free to reach out to me via the following platforms:
 
-GitHub: github.com/yourusername
+GitHub: github.com/parthlunagariya03
 
-LinkedIn: linkedin.com/in/yourprofile
+LinkedIn: linkedin.com/in/patelparth04
 
 ---
 
