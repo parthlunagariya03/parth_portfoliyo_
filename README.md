@@ -53,6 +53,7 @@ Welcome to my personal portfolio repository! This website is a testament to my j
 Feel free to reach out to me via the following platforms:
 
 GitHub: github.com/yourusername
+
 LinkedIn: linkedin.com/in/yourprofile
 
 ---
